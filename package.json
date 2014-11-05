@@ -12,6 +12,6 @@
     },
     "dependencies": {
         "lodash": "2.4.1",
-        "gittle": "0.2.2"
+        "gittle": "talkingquickly/gittle.js"
     }
 }
